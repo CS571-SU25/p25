@@ -16,7 +16,8 @@ export default function Header() {
         }}
     >
         <Link to="/" style={{ color: 'white', textDecoration: 'none' }}>Home</Link>
-        <Link to="/player-info" style={{ color: 'white', textDecoration: 'none' }}>Player Info</Link>
+        <Link to="/player-info" style={{ color: 'white', textDecoration: 'none' }}>The Team</Link>
         <Link to="/schedule" style={{ color: 'white', textDecoration: 'none' }}>Schedule</Link>
+        <Link to="/cart" style={{ color: 'white', textDecoration: 'none' }}>Cart</Link>
     </nav>
 }
