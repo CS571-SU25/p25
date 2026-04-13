@@ -20,7 +20,7 @@ export default function Header() {
             {/* Left: Logo and Site Name */}
             <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
                 <img
-                    src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wisconsin_Badgers_logo.svg/2171px-Wisconsin_Badgers_logo.svg.png"
+                    src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Wisconsin_Badgers_logo.svg"
                     alt="Wisconsin Badgers Logo"
                     style={{ width: "40px", height: "auto" }}
                 />
