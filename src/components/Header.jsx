@@ -37,7 +37,7 @@ export default function Header() {
             {/* Right: Cart Link */}
             <div>
                 <img 
-                    src="https://cdn-icons-png.flaticon.com/512/263/263142.png"
+                    src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Wisconsin_Badgers_logo.svg"
                     alt="Shopping Cart"
                     style={{ width: "40px", height: "auto", filter: "invert(1)", marginRight: "15px" }}
                 />
